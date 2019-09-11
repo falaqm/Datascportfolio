@@ -26,8 +26,21 @@ In this project, I trained an image classifier to recognize different species of
 
 In this project, I applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. The data that you will use has been provided by our partners at Bertelsmann Arvato Analytics, and represents a real-life data science task.
 
+
+
 First, the general demographics data are clustered through a KMeans clustering algorithms, then the same parameters are applied over the customer dataset to investigate if the customers are following the same distributions.
 
 [Project Notebook: Customer Segmentations](http://nbviewer.jupyter.org/github/chenbowen184/Udacity_Data_Science_Projects/blob/master/Project%203%20-%20Identify%20Customer%20Segementation/Identify_Customer_Segments.ipynb?flush_cache=true)
 
 
+
+
+### Project 4 - Deep Learning Model to Predict Employee Retention Using Keras and TensorFlow
+
+**Description:** 
+
+Keras is a neural network API that is written in Python. It runs on top of TensorFlow, CNTK, or Theano. It is a high-level abstraction of these deep learning frameworks and therefore makes experimentation faster and easier. Keras is modular, which means implementation is seamless as developers can quickly extend models by adding modules.TensorFlow is an open-source software library for machine learning. 
+
+In this project,a deep learning model is used,that will predict the probability of an employee leaving a company. Retaining the best employees is an important factor for most organizations. To create this model the Keras sequential layer was used to build the different layers for the model.
+
+[Project Notebook:Employee Retention](https://nbviewer.jupyter.org/github/falaqm/deeplearning/blob/master/Employee%20Retention/EmployeeRetention.ipynb)
