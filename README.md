@@ -44,3 +44,11 @@ Keras is a neural network API that is written in Python. It runs on top of Tenso
 In this project,a deep learning model is used,that will predict the probability of an employee leaving a company. Retaining the best employees is an important factor for most organizations. To create this model the Keras sequential layer was used to build the different layers for the model.
 
 [Project Notebook:Employee Retention](https://nbviewer.jupyter.org/github/falaqm/deeplearning/blob/master/Employee%20Retention/EmployeeRetention.ipynb)
+
+### Project  - Twitter Sentiment Case Study for Orginization
+
+**Description:**
+
+Sentiment Analysis refers to the use of Natural Language Processing to determine the attitude, opinions and emotions of a speaker, writer, or other subject within an online mention.
+
+[Project Notebook:Twitter Sentiment](https://nbviewer.jupyter.org/github/falaqm/datalit/blob/master/SA-refinitiv/Sentiment_Analysis_refinitiv.ipynb)
